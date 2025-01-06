@@ -11,4 +11,5 @@
 - **2025.01.06 (월)**  
   🟢 Part2 - ch2. 04. 비동기와 동기란? (asynchronous vs synchronous) ~ 13. Node.js Event Emitter<br>
   🔵 Part3 - ch1. 01. Module 이란? ~ 09. index.js에 대해서<br>
-  🔵 Part3 - ch2. 01. npm 이란? ~ 08. Yarn 이란?
+  🔵 Part3 - ch2. 01. npm 이란? ~ 08. Yarn 이란?<br>
+  🟣 Part4 - ch1. 01. 웹 서버란? ~ 08. POST 요청으로 데이터 추가하기<br>
