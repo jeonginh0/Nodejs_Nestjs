@@ -1,6 +1,6 @@
 const http = require('http');
 const port = 5959;
-const targetObejct = {a: '에이', b: '비'}
+const targetObejct = {a: 'a', b: 'b'}
 
 const server = http.createServer((req, res) => {
     if (req.method === 'POST' && req.url === '/home') {
